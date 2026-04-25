@@ -2,8 +2,9 @@
 
 ## Overview
 
-This project uses an **Arduino Uno** to measure DC voltage and display the value in real time on a **16x2 I2C LCD**. The Arduino reads the voltage using its built-in **Analog-to-Digital Converter (ADC)** and converts it into a readable voltage value (0–5V range).
-
+Design and implement a DC voltage measurement circuit using the Arduino’s onboard ADC and
+the LCD display. Use two probe wires to measure voltage, and display the measured value on the
+LCD screen. Do not use the Serial Monitor to display the voltage.
 ---
 
 ## Features
