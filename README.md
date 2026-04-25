@@ -4,7 +4,7 @@
 
 Design and implement a DC voltage measurement circuit using the Arduino’s onboard ADC and
 the LCD display. Use two probe wires to measure voltage, and display the measured value on the
-LCD screen. Do not use the Serial Monitor to display the voltage.
+LCD screen.
 ---
 
 ## Features
