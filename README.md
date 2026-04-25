@@ -55,3 +55,12 @@ LCD screen.
 3. The code converts this into a voltage (0–5V)
 4. The result is displayed on the LCD screen
 
+##  How It Works CODE: lab9pt1.ino
+
+1. Pin 8 → resistor → LED → GND.
+2. Pin 7 → one probe.
+3. GND → other probe.
+4. Probes apart = LED OFF.
+5. Probes touching = LED ON.
+6. Unplug one probe = LED OFF.
+
